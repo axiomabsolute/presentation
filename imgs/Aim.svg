@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50"
+   height="50"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="Aim.svg"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2555">
+      <stop
+         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
+         offset="0"
+         id="stop2557" />
+      <stop
+         style="stop-color: rgb(255, 255, 255); stop-opacity: 0;"
+         offset="1"
+         id="stop2559" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient2449"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.11416375,0,0,0.12593448,343.02993,482.83186)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="94.293604"
+     inkscape:cy="116.15466"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1862"
+     inkscape:window-height="986"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>User:ZyMOS</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:description />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:contributor>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Open Icon Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-373.642,-524.344)">
+    <rect
+       inkscape:export-ydpi="7.7063322"
+       inkscape:export-xdpi="7.7063322"
+       inkscape:export-filename="C:\Documents and Settings\Molumen\Desktop\path3511111.png"
+       transform="scale(-1,1)"
+       ry="35.487503"
+       rx="35.487503"
+       y="525.98083"
+       x="-421.99942"
+       height="47.143581"
+       width="46.78997"
+       id="rect1942"
+       style="fill:#ad403d;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <path
+       inkscape:export-ydpi="7.7063322"
+       inkscape:export-xdpi="7.7063322"
+       inkscape:export-filename="C:\Documents and Settings\Molumen\Desktop\path3511111.png"
+       sodipodi:nodetypes="ccccsssc"
+       id="path1950"
+       d="m 410.01491,524.70567 -21.39239,0 c -5.66262,0 -10.22134,5.06963 -10.22134,11.36686 l 0,23.02269 c 0.18329,4.91553 0.88834,1.80803 2.23036,-3.63558 1.55971,-6.32658 6.63923,-11.85611 12.82519,-16.00017 4.72154,-3.16301 10.0064,-5.18279 19.62627,-5.37493 5.45569,-0.10899 4.97405,-7.81061 -3.06809,-9.37887 z"
+       style="fill:url(#linearGradient2449);fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.22110833;marker:none;visibility:visible;display:inline;overflow:visible"
+       id="path2364"
+       sodipodi:cx="26.870058"
+       sodipodi:cy="9.4626808"
+       sodipodi:rx="7.4246211"
+       sodipodi:ry="7.4246211"
+       d="m 34.294679,9.4626808 a 7.4246211,7.4246211 0 1 1 -14.849242,0 7.4246211,7.4246211 0 1 1 14.849242,0 z"
+       transform="matrix(0.85455984,0,0,0.85435455,374.69537,528.69261)" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000012;marker:none;visibility:visible;display:inline;overflow:visible"
+       d="m 393.97446,541.47967 c 0.77324,0.3635 4.66338,-0.39732 5.06203,-0.0551 0.40425,0.34703 -0.97818,1.65687 -0.20149,2.23548 1.84398,1.3737 6.721,1.77679 11.09844,0.16158 l 1.65866,4.56023 c -2.4053,1.32642 -6.00559,2.09505 -10.61544,1.65825 l 12.10824,12.18826 -4.48673,4.03673 -9.31453,-9.78132 c -3.76813,6.60087 -8.69531,9.18738 -12.57149,11.54851 l -3.25696,-5.13716 c 15.37539,-9.70657 6.85411,-14.05112 10.58171,-19.5967 0.29804,-0.4434 -0.56825,-1.39206 -0.0624,-1.81875 z"
+       id="path3239"
+       sodipodi:nodetypes="cssccccccccsc"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
